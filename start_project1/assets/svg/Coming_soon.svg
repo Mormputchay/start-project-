@@ -1,0 +1,18 @@
+\<svg xmlns="http://www.w3.org/2000/svg" width="126" height="122" viewBox="0 0 126 122">
+  <g id="Group_22732" data-name="Group 22732" transform="translate(-125 -136)">
+    <g id="Group_22731" data-name="Group 22731" transform="translate(122.045 132.216)">
+      <rect id="Rectangle_8096" data-name="Rectangle 8096" width="126" height="70" rx="2" transform="translate(2.955 55.784)" fill="#e2e2e2"/>
+      <circle id="Ellipse_92" data-name="Ellipse 92" cx="6.5" cy="6.5" r="6.5" transform="translate(9.955 62.784)" fill="#474747"/>
+      <circle id="Ellipse_93" data-name="Ellipse 93" cx="6.5" cy="6.5" r="6.5" transform="translate(108.955 62.784)" fill="#474747"/>
+      <path id="Path_17830" data-name="Path 17830" d="M108.923,68.219,60.1,11.408,11.278,68.219,8,65.332,58.451,6.7a2.269,2.269,0,0,1,3.278,0l50.451,58.656L108.9,68.241Z" transform="translate(5.854 2.339)" fill="#777"/>
+      <ellipse id="Ellipse_94" data-name="Ellipse 94" cx="7" cy="6.5" rx="7" ry="6.5" transform="translate(58.955 3.784)" fill="#474747"/>
+      <g id="Group_22730" data-name="Group 22730" transform="translate(5.171 119.055)">
+        <path id="Path_17831" data-name="Path 17831" d="M27.879,59.171a2.287,2.287,0,0,1-2.388,2.171H6.388a2.181,2.181,0,1,1,0-4.342h19.1A2.287,2.287,0,0,1,27.879,59.171Z" transform="translate(-4 -57)" fill="#efefef"/>
+        <rect id="Rectangle_8097" data-name="Rectangle 8097" width="5" height="5" rx="1" transform="translate(25.784 -0.271)" fill="#efefef"/>
+      </g>
+    </g>
+    <g id="Group_21824" data-name="Group 21824" transform="translate(0 -199)">
+      <text id="Coming_Soon" data-name="Coming Soon" transform="translate(188 429)" fill="#171717" font-size="15" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-48" y="0">Coming Soon</tspan></text>
+    </g>
+  </g>
+</svg>
